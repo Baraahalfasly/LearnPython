@@ -2,6 +2,8 @@
 
 1- My first python code (hello world)
 
+This is my second code python. 
+
 a= [10]
 E = 0
 O = 0

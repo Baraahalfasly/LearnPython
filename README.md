@@ -14,7 +14,7 @@ It will print the numbers from 0 to 9, each on a separate line.
 
 
 
-3- This is my Third code python. 
+3- This is my Third python code. 
 
 a= [10]
 E = 0

@@ -58,3 +58,28 @@ Default condition: If the first letter is neither "B" nor "A", the program print
 
 In summary, the code greets the user and checks the first letter of their name to determine whether it is "A", "B", or something else.
 
+5- This is my fifth python code.
+
+x = 10
+def checkAge(x):
+    if x < 15:
+        print("child")
+    elif x < 25 and x > 10:
+        print("yowng")
+    else:
+        print("woman")
+ 
+checkAge(x)
+
+1.Variable x: It is assigned the value 10.
+
+2.Function checkAge: It takes a value (age) and determines the age category:
+
+   If the age is less than 15, it prints "child."
+   If the age is between 10 and 25 (excluding 10), it prints "young."
+   If the age is 25 or older, it prints "woman."
+3.When calling the function with checkAge(x):
+
+The value of x is 10, so it prints "child."
+In summary, the code determines the age category based on the input value.
+

@@ -2,10 +2,7 @@
 
 1- My first python code (hello world)
 
-2- This is my second python code.
-
-for i in range(10):
-   print(i)
+2- (Create for_loop.py)
 
 for i in range(10):: Starts a loop where i takes values from 0 to 9 (which are 10 numbers).
 print(i): Prints the current value of i in each iteration
